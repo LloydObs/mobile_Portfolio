@@ -1,0 +1,28 @@
+<resources>
+    <string-array name="project_cmos">
+        <item name="project_title">Project CMOS</item>
+        <item name="second_title,">COVID Monitoring System</item>
+        <item name="tags_title">Application, Monitoring System</item>
+        <item name="description">   Project CMoS aims to strengthen the contact tracing specifically to the patients with asymptomatic signs and help the officials make better decisions and approaches to the problem e.g., stricter lockdowns, adding more handwashing stations and increasing public announcements about  protecting yourself and others. The system will accept basic information such as name, age, and address, the symptoms he felt, the dates where the patient felt the symptoms, the places the patient went, if he/she is vaccinated and had been swab test. It can also update information about the patient. It will also show the list of the patients based of their covid classification and their corresponding information. With the collaboration with Makati Health Department, Pembo Official Contact Tracers, and DILG Makati, the information of the patient that will be passed to the system will be safe.
+        </item>
+    </string-array>
+    <string-array name="project_tacdesk">
+        <item name="project_title">TacDesk</item>
+        <item name="second_title,">TAC Incident Reporting Tool</item>
+        <item name="tags_title">Mobile, Reporting Tool</item>
+        <item name="description">   In Town and Country Subdivision in Dasmariñas, Cavite, incidents like minor accidents, missing pets, neighborhood complaints, and hazardous objects are being reported. However, according to the HOA, reporting and recording these type of incidents are still manually done. Incident reporting system is an effective resource for analyzing, tracking, and documenting any incidents that may occur. The goal of this project is to establish an incident reporting system that will cater the residents’ concerns that either may not or may need an immediate response. In addition, the authorities will be able to easily track and manage all of the type reports that are being submitted into the system. It will help the village understand what they lack and what needs to be improved to prevent an incident from occurring again.
+        </item>
+    </string-array>
+    <string-array name="project_busreserb">
+        <item name="project_title">Pasaheroes</item>
+        <item name="second_title,">Bus Reservation Tool</item>
+        <item name="tags_title">Website, Reservation Website</item>
+        <item name="description">   This Bus Ticket Reservation uses database approach in managing the customers’ information. This project is designed to help commuters ease their travel booking experience, as well as reducing their time outside to minimize the risk of acquiring the virus. This would contribute to our mass transportation issue by providing an organized booking system that allows users to book a reservation online according to their best interest.</item>
+    </string-array>
+    <string-array name="project_ai">
+        <item name="project_title">Drowsiness Detection</item>
+        <item name="second_title,">No Tags</item>
+        <item name="tags_title">Side Projects, Software</item>
+        <item name="description">           Drowsiness Detection Software is an advanced software solution that utilizes the power of Python and the state-of-the-art YOLOv5 (You Only Look Once) algorithm for real-time drowsiness detection. Designed to enhance safety in various contexts, this software intelligently analyzes facial cues to identify signs of drowsiness and alert individuals before potential accidents occur. DrowsinessGuard offers a user-friendly interface, making it easy to integrate the software into existing systems or use it as a standalone application. With customizable settings, users can adjust sensitivity levels and define specific alert mechanisms tailored to their needs. The software also provides visual and audio notifications to ensure timely attention and response.</item>
+    </string-array>
+</resources>

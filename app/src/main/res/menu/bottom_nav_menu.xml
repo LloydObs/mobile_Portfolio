@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/title_about" />
+
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/baseline_engineering_24"
+        android:title="@string/title_services" />
+
+    <item
+        android:id="@+id/navigation_portfolio"
+        android:icon="@drawable/outline_analytics_24"
+        android:title="@string/title_portfolio" />
+
+</menu>

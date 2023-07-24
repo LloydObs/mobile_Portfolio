@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+        <variable
+            name="project"
+            type="com.example.portfoliotest.ui.notifications.NotificationsFragment" />
+    </data>
+<androidx.cardview.widget.CardView
+    app:cardCornerRadius="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:layout_margin="12dp"
+    android:id="@+id/cardView"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/project_image"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/cmos"
+            android:layout_marginRight="5dp"
+            android:scaleType="centerCrop"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginLeft="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="Project CMOS"
+                android:fontFamily="@font/montserrat_semibold"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:id="@+id/project_title"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_marginTop="8dp"
+                android:text="COVID Monitoring System"
+                android:fontFamily="@font/montserrat_regular"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:id="@+id/second_title"
+                />
+
+            <TextView
+                android:id="@+id/title_tags"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:fontFamily="@font/montserrat_light"
+                android:layout_marginTop="10dp"
+                android:textSize="12sp"
+                android:textColor="@color/black"
+
+                />
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+</layout>

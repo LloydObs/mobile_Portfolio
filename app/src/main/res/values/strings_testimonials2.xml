@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="raven_testimonial">
+        <item name="testimonial_name">Raven Barajas</item>
+        <item name="testimonial_position">Backend Engineer</item>
+        <item name="testimonial_comments">  I highly recommend Lloyd for their professionalism, attention to detail, and ability to produce high-quality work. They have a great attitude and are always willing to go above and beyond to ensure the success of the project.</item>
+    </string-array>
+    <string-array name="rex_testimonial">
+        <item name="testimonial_name">Rex Tumlos</item>
+        <item name="testimonial_position">Senior ML Engineer</item>
+        <item name="testimonial_comments">  Lloyd is an exceptional programmer who consistently produces high-quality work. Their technical expertise and problem-solving skills are unmatched, and their dedication to producing the best possible product is evident in every project they work on. It was a pleasure working with Lloyd, and I highly recommend them for any programming project</item>
+    </string-array>
+    <string-array name="rhea_testimonial">
+        <item name="testimonial_name">Rhea Mascarinas</item>
+        <item name="testimonial_position">Chief Financial Officer</item>
+        <item name="testimonial_comments">  Working with Lloyd is a pleasure. Their collaborative spirit, dedication, and technical expertise make them an essential part of any programming project. Their ability to communicate effectively and work well with others makes the project a seamless success</item>
+    </string-array>
+    <string-array name="kristine_testimonial">
+        <item name="testimonial_name">Kristine Togonon</item>
+        <item name="testimonial_position">Neonatal Intensive Care Nurse</item>
+        <item name="testimonial_comments">  I had the pleasure of collaborating with Lloyd on a web-based system project, and I was impressed with their technical expertise and ability to produce efficient and scalable systems. Their dedication to their craft and persistence in problem-solving made the project a resounding success.</item>
+    </string-array>
+    <string-array name="yumico_testimonial">
+        <item name="testimonial_name">Yumico Daroy</item>
+        <item name="testimonial_position">Chief Executive Officer</item>
+        <item name="testimonial_comments">  Working with Lloyd was an absolute pleasure. They have a keen eye for detail and a deep understanding of programming languages and databases. Their expertise in backend programming was a valuable asset to our team, and they consistently delivered high-quality work on time and within budget. I would highly recommend Lloyd to anyone looking for a skilled and reliable programmer.</item>
+    </string-array>
+    <string-array name="miel_testimonial">
+        <item name="testimonial_name">Florence Sanchez</item>
+        <item name="testimonial_position">Geophysicist</item>
+        <item name="testimonial_comments">  I had the pleasure of collaborating with Lloyd on a mobile app project, and I couldnt be happier with the results. Their knowledge of languages like Rust and Java was instrumental in the development process, and they were always quick to offer solutions to any challenges that arose.</item>
+    </string-array>
+    <string name="contact">Contact me Here !!!!</string>
+    <string name="contact_text">    If youre interested in working together on a programming project, or simply want to chat about programming, feel free to contact me! You can reach me via my email and my social links that is located belowthis message. Im always open to new opportunities andwould love to hear from you. Lets collaborate and create something great together!</string>
+</resources>

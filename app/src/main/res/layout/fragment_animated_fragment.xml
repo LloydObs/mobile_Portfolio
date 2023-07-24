@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.animated_fragment"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <me.relex.circleindicator.CircleIndicator3
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:ci_drawable="@drawable/custom_circle_indicator"
+        app:layout_constraintTop_toBottomOf="@+id/animatedPager" />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/animatedPager"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/skipButton"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:background="@color/subcolor8"
+        android:text="SKIP"
+        android:drawablePadding="-20dp"
+        android:drawableEnd="@drawable/baseline_arrow_forward_24"
+        android:textSize="16sp"
+
+        android:fontFamily="@font/montserrat_bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/indicator" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

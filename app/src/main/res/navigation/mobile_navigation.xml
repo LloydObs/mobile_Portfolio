@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/animated_fragment">
+
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="com.example.portfoliotest.ui.home.HomeFragment"
+        android:label="@string/title_about"
+        tools:layout="@layout/fragment_about" >
+        <action
+            android:id="@+id/action_navigation_about_to_navigation_services"
+            app:destination="@id/navigation_services"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_navigation_about_to_navigation_portfolio"
+            app:destination="@id/navigation_portfolio"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_services"
+        android:name="com.example.portfoliotest.ui.dashboard.DashboardFragment"
+        android:label="@string/title_services"
+        tools:layout="@layout/fragment_services" />
+
+    <fragment
+        android:id="@+id/navigation_portfolio"
+        android:name="com.example.portfoliotest.ui.notifications.NotificationsFragment"
+        android:label="@string/title_portfolio"
+        tools:layout="@layout/fragment_portfolio" />
+    <fragment
+        android:id="@+id/animated_fragment"
+        android:name="com.example.portfoliotest.ui.animated_fragment"
+        android:label="fragment_animated_fragment"
+        tools:layout="@layout/fragment_animated_fragment" >
+        <action
+            android:id="@+id/action_animated_fragment_to_navigation_about"
+            app:destination="@id/navigation_about"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+    </fragment>
+
+</navigation>

@@ -1,0 +1,28 @@
+<resources>
+    <string-array name="hobbies_astro">
+        <item name="project_title">Astrophotography</item>
+        <item name="second_title,">No Tags</item>
+        <item name="tags_title">Side Hobbies, Photography</item>
+        <item name="description">   Aside from exploring new technologies and coding Outside of programming, I also enjoy reading books and manga and recently enjoyed a book by Meg Jay titled "The Defining Decade: Why Your Twenties Matter". I also play some online games and a lot of indie games such as Hades and Hollow Knight since I find relaxation in exploring new worlds and discovering strategies. I also do astrophotography if i have free time and the weather condition is good. I sometimes setup my telescope and camera and enjoy the view. Lastly, I also love eating and discovering new places to enjoy viewing the surroundings while eating.</item>    </string-array>
+    <string-array name="subproject_chatserver">
+        <item name="project_title">Chat Server</item>
+        <item name="second_title,">Local chat server using Rust</item>
+        <item name="tags_title">Side Projects, Rust</item>
+        <item name="description">   Innovative local chat server designed to facilitate seamless communication within a network, developed entirely in the Rust programming language. With a focus on security, efficiency, and reliability, this project offers a robust solution for establishing real-time conversations in a local environment.</item>    </string-array>
+    <string-array name="subproject_snake">
+        <item name="project_title">Snake Game</item>
+        <item name="second_title,">Snake using Rust and Piston</item>
+        <item name="tags_title">Side Projects, Rust</item>
+        <item name="description">   A delightful recreation of the beloved snake game, built from scratch using the power of the Rust programming language and the Piston game engine. Immerse yourself in this nostalgic gaming experience as you guide the snake through a grid, devouring apples and growing longer with each bite.</item>    </string-array>
+    <string-array name="subproject_pong">
+        <item name="project_title">Pong Game</item>
+        <item name="second_title,">Pong game using Rust</item>
+        <item name="tags_title">Side Projects, Rust</item>
+        <item name="description">   Modern twist on the classic arcade game Pong, developed entirely in Rust. It combines sleek visuals, smooth animations, and addictive gameplay mechanics, providing a seamless gaming experience. Challenge friends or the computer-controlled opponent, showcasing the power of Rust performance and safety. Rediscover the joy of retro gaming with Rust Pong minimalist design and captivating gameplay</item>
+    </string-array>
+    <string-array name="splash_description">
+        <item name="description1">Coding is my healthy outlet, where I bring ideas to life and solve complex problems.</item>
+        <item name="description2">I continuously refine my skills to develop innovative solutions, while indulging in gaming sessions lets me immerse myself in virtual worlds, embark on thrilling adventures, and connect with fellow gamers.</item>
+        <item name="description3">My love for traveling fuels my desire to explore new horizons, embrace different cultures, and seek inspiration from the beauty of our planet.</item>
+    </string-array>
+</resources>

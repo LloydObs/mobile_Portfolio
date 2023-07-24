@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aeron_testimonial">
+        <item name="testimonial_name">Aeron Andres</item>
+        <item name="testimonial_position">Engineer</item>
+        <item name="testimonial_comments">  Working with Lloyd was a pleasure. Their ability to problem" solve and think creatively made them an invaluable asset to our team. Their dedication and attention to detail produced high-quality work that exceeded our expectations"</item>
+    </string-array>
+    <string-array name="eunice_testimonial">
+        <item name="testimonial_name">Eunice Martin</item>
+        <item name="testimonial_position">Radiologists</item>
+        <item name="testimonial_comments">  Working with Lloyd was a pleasure. Their ability to problem solve and think creatively made them aninvaluable asset to our team. Their dedication and attention to detail produced high-quality work that exceeded our expectations</item>
+    </string-array>
+    <string-array name="gian_testimonial">
+        <item name="testimonial_name">Gian Angelo Dasigan</item>
+        <item name="testimonial_position">Javascript Architect</item>
+        <item name="testimonial_comments">  I highly recommend Lloyd for any programming project. Their attention to detail,problem solving skills, and dedication to their craft make them a top-notch programmer. Their positive attitude and willingness to go above and beyond always make working with them a pleasure.</item>
+    </string-array>
+    <string-array name="hans_testimonial">
+        <item name="testimonial_name">Hans Salangsang</item>
+        <item name="testimonial_position">User Interface Engineer</item>
+        <item name="testimonial_comments">  As a fellow programmer, I have had the opportunity to collaborate with Lloyd on several projects. Their curiosity and willingness to explore new technologies make them a standout programmer. Their ability to communicate effectively and work collaboratively has made each project a seamless success</item>
+    </string-array>
+    <string-array name="jerus_testimonial">
+        <item name="testimonial_name">Jerus Sanqui</item>
+        <item name="testimonial_position">PMO Consultant</item>
+        <item name="testimonial_comments">  Working with Lloyd has been a game-changer for our team. Their creativity and ability to think outside the box have resulted in innovative solutions that have propelled our projects to success. Their passion and dedication for programming are evident in everything they do.</item>
+    </string-array>
+    <string-array name="kyle_testimonial">
+        <item name="testimonial_name">Kyle Baso</item>
+        <item name="testimonial_position">Full Stack Developer</item>
+        <item name="testimonial_comments">  I had the pleasure of working with Lloyd on a mobile application project, and I was impressed with their ability to produce efficient, scalable, and secure backend systems. Their technical expertise in programming languages such as C#, Rust, and Java was instrumental in the projects success. I would highly recommend Lloyd for any programming project.</item>
+    </string-array>
+    <string-array name="philippe_testimonial">
+        <item name="testimonial_name">Philippe Serrano</item>
+        <item name="testimonial_position">Software Analyst</item>
+        <item name="testimonial_comments">  I have worked with Lloyd on multiple projects, and each time, they have delivered high-quality work that exceeded expectations. Their problem solving skills and persistence make them a valuable asset to any programming team</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Main Colors-->
+    <color name="primaryColor">#0e1630</color>
+    <color name="subColor1">#a4a2a4</color>
+    <color name="subColor2">#C0C0C0</color>
+    <color name="subColor3">#9c949a</color>
+    <color name="subColor4">#4682B4</color>
+    <color name="subColor5">#008B8B</color>
+    <color name="subColor6">#808dad</color>
+    <color name="subColor7">#B0C4DE</color>
+    <color name="subcolor8">#1E88E5</color>
+
+    <!--
+    $lightPrimary: #f5f5f5;
+    $lightModesub: #00AEA8;
+    $lightModeText: #333333;
+    $lightModeTextsub: #777777;
+    $primaryBlack : black;
+
+    $darkPrimary: #333333;
+    $darkModeSub: #00AEA8;
+    $darkModeText: #f5f5f5;
+    $darkModeTextsub: #CCCCCC;
+
+
+    -->
+
+
+</resources>
